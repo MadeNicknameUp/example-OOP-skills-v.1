@@ -1,7 +1,5 @@
 # example-OOP-skills-v.1
 
-## Overview
-
 This repository demonstrates various object-oriented programming (OOP) skills using C++. It includes multiple projects, each focusing on different OOP principles such as encapsulation, inheritance, and polymorphism.
 
 ## Projects
